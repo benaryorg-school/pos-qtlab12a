@@ -1,0 +1,14 @@
+Werner Faymann;Bundeskanzler;SPÖ;Werner_Faymann.png
+Reinhold Mitterlehner;Vizekanzler und Bundesminister für Wissenschaft, Forschung und Wirtschaft;ÖVP;Reinhold_Mitterlehner.png
+Josef Ostermayer;Bundesminister für Kunst und Kultur, Verfassung und Medien;SPÖ;Josef_Ostermayer.png
+Sebastian Kurz;Bundesminister für Europa, Integration und Äußeres;ÖVP;Sebastian_Kurz.png
+Rudolf Hundstorfer;Bundesminister für Arbeit, Soziales und Konsumentenschutz;SPÖ;Rudolf_Hundstorfer.png
+Gabriele Heinisch-Hosek;Bundesministerin für Bildung und Frauen;SPÖ;Gabriele_Hosek.png
+Sophie Karmasin;Bundesministerin für Familien und Jugend;Parteilos;Sophie_Karmasin.png
+Hans Jörg Schelling;Bundesminister für Finanzen;ÖVP;Hans_Joerg_Schelling.png
+Sabine Oberhauser;Bundesministerin für Gesundheit;SPÖ;Sabine_Oberhauser.png
+Johanna Mikl-Leitner;Bundesministerin für Inneres;ÖVP;Johanna_Leitner.png
+Wolfgang Brandstetter;Justizminister;Parteilos;Wolfgang_Brandstetter.png
+Gerald Klug;Bundesminister für Landesverteidigung und Sport;SPÖ;Gerald_Klug.png
+Andrä Rupprechter;Bundesminister für Land- und Forstwirtschaft, Umwelt und Wasserwirtschaft;ÖVP;Andrae_Rupprechter.png
+Alois Stöger;Bundesminister für Verkehr, Innovation und Technologie;SPÖ;Alois_Stoeger.png

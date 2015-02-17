@@ -1,0 +1,19 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+	<file>data/Alois_Stoeger.png</file>
+	<file>data/Andrae_Rupprechter.png</file>
+	<file>data/Gabriele_Hosek.png</file>
+	<file>data/Gerald_Klug.png</file>
+	<file>data/Hans_Joerg_Schelling.png</file>
+	<file>data/Johanna_Leitner.png</file>
+	<file>data/Josef_Ostermayer.png</file>
+	<file>data/Reinhold_Mitterlehner.png</file>
+	<file>data/Rudolf_Hundstorfer.png</file>
+	<file>data/Sabine_Oberhauser.png</file>
+	<file>data/Sebastian_Kurz.png</file>
+	<file>data/Sophie_Karmasin.png</file>
+	<file>data/Werner_Faymann.png</file>
+	<file>data/Wolfgang_Brandstetter.png</file>
+	<file>data/minister.txt</file>
+</qresource>
+</RCC>
